@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from [brace] Prince Rupert and Prince Maurice, directed to both Houses of Parliament, with their intentions: as also their desires to the Parliament, sent from Oatlands, and delivered on Tuesday last, the 30. of June. 1646. These are true copies, and printed and published according to order. Iuly 4. 1646.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92096</idno>
+            <idno type="STC">Wing R2292</idno>
+            <idno type="STC">Thomason E342_14</idno>
+            <idno type="STC">ESTC R200934</idno>
+            <idno type="EEBO-CITATION">99861548</idno>
+            <idno type="PROQUEST">99861548</idno>
+            <idno type="VID">159771</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159771)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E342[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from [brace] Prince Rupert and Prince Maurice, directed to both Houses of Parliament, with their intentions: as also their desires to the Parliament, sent from Oatlands, and delivered on Tuesday last, the 30. of June. 1646. These are true copies, and printed and published according to order. Iuly 4. 1646.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+                  <author>Maurice, Prince, 1620-1652.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iane Coe.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "July 2d".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Maurice, --  Prince, 1620-1652 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159771:1" rendition="simple:additions"/>
+            <p>A DECLARATION <hi>FROM</hi>
+               <list>
+                  <item>Prince <hi>Rupert</hi> and</item>
+                  <item>Prince <hi>Maurice,</hi>
+                  </item>
+               </list>
+Directed to both Houſes of <hi>PARLJAMENT,</hi> With their intentions: <hi>AS ALSO</hi> Their Deſires to the Parliament.</p>
+            <p>Sent from <hi>Oatlands,</hi> and delivered on Tueſday laſt, the 30. of June. 1646.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Theſe are true Copies, and printed and publiſhed according to Order.</p>
+                        <closer>
+                           <dateline>
+                              <date>Iuly 4. 1646.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed by <hi>Jane Coe.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:159771:2"/>
+            <pb facs="tcp:159771:2"/>
+            <head>A Declaration from Prince RUPERT and Prince MAURICE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE received upon <hi>Sa<g ref="char:EOLhyphen"/>turday,</hi> the 27. of this month, two votes paſ<g ref="char:EOLhyphen"/>ſed by the Houſe of Commons, the one, a Declaration, that we had broken the Arti<g ref="char:EOLhyphen"/>cles upon the ſurren<g ref="char:EOLhyphen"/>der of <hi>Oxford.</hi> The o<g ref="char:EOLhyphen"/>ther, that wee ſhould within ten dayes repair to the Sea ſide, and forthwith depart the Kingdome. Our deſire to you is, that you would be pleaſed to acquaint the Houſe with this our clear profeſſion, That we were very far from any intention in our coming to, or being in this place, of giving offence to the Parliament, with whom we in<g ref="char:EOLhyphen"/>tended and hoped by the beſt means we could poſsibly uſe, to be better underſtood. And, Sir, we were very far from any thought that by our coming hither, we ſhould break and loſe the benefit of thoſe Articles, by which we conceived we had good furtherance and ac<g ref="char:EOLhyphen"/>ceſſe, for the gaining that peace we much deſired. Our apprehenſion concerning our liberty by thoſe Articles, ſtood thus. The third Article particularly naming us, gives us, in the former part thereof, a liberty of repai<g ref="char:EOLhyphen"/>ring towards <hi>London:</hi> but with a limitation of not
+<pb facs="tcp:159771:3"/>coming within 20 miles of the ſame: and the later part of that Article gives us the benefit of the enſuing Ar<g ref="char:EOLhyphen"/>ticles that may concern us. The limitation in the for<g ref="char:EOLhyphen"/>mer part of the Article, was ſet down when it was not known what liberty would be given to other per<g ref="char:EOLhyphen"/>ſons: and becauſe it was fore-ſeene, that poſsibly a fur<g ref="char:EOLhyphen"/>ther liberty, and other benefit might be obtained in the following Articles, (which after came to paſſe) this clauſe was asked and granted, That wee ſhould have the ſame liberty and benefit with others. And wee are confident there was not an expreſsion or thought, of putting us into a worſe condition then all others: but we are ſure of very many expreſsions to the contrary. And therfore, Sir, looking upon the 11. Article, where<g ref="char:EOLhyphen"/>by all perſons in <hi>Oxford</hi> are compriſed in this capitula<g ref="char:EOLhyphen"/>tion, (ſaving perſons excepted) having eſtates reall or perſonall liable to ſequeſtration, ſhall have liberty and the Generals Paſſe and protection, to go to <hi>London,</hi> to attend their compoſitions; or elſwhere upon their ne<g ref="char:EOLhyphen"/>ceſſary occ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſions. And upon the twelft, that no per<g ref="char:EOLhyphen"/>ſons included in this capitulation, (except perſons be<g ref="char:EOLhyphen"/>fore mentioned to be excepted) ſhall bee moleſted or queſtioned for any thing ſaid or done, concerning this war, ſubmitting to compoſition: and the perſons ex<g ref="char:EOLhyphen"/>cepted ſhall have the benefit of this Article during ſix months; and after, if they be admitted to, and agree for compoſition. And upon the thirteenth, That the per<g ref="char:EOLhyphen"/>ſons excepted ſhall have liberty to repaire to <hi>London,</hi> to make their peace. And upon the ninth Article, if we ſhould be looked upon as ſtrangers, we are to have the benefit of the Articles. And upon our Paſſe from the Generall, giving expreſſe liberty to any place with<g ref="char:EOLhyphen"/>out any Limitation, or Reſtraint, wee did not
+<pb facs="tcp:159771:3"/>doubt but that we had the liberty of this place: the be<g ref="char:EOLhyphen"/>nefit of our accommodation for the Ho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe, came more into our thoughts, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the diſtance or number of miles from <hi>London,</hi> of which we had no doubt at all. Sir, our earneſt deſire is, we may be underſtood to off<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r all this, not by way of diſputing with the Parliament, but as a moſt cleare evidence, that the u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>termoſt of what wee have done in this, is very far from any wilfulneſſe or purpoſe to offend the Parliament, &amp; from any thought that we could thereby have prejudiced ourſelves, ha<g ref="char:EOLhyphen"/>ving firmly reſolved to our beſt power to aſsiſt and ad<g ref="char:EOLhyphen"/>vance the peace of this kingdome, and to give that re<g ref="char:EOLhyphen"/>gard that is juſt and due, to thoſe that repreſent it. Ha<g ref="char:EOLhyphen"/>ving thus truly repreſented our own apprehenſions, &amp; not knowing the motives that induced the Parliament to thoſe votes, we are not able (to our trouble) to know the way to give them further ſatisfaction; untill they be pleaſed to give us time and means that we may en<g ref="char:EOLhyphen"/>deavour it; which we cannot doubt to find from them that never faild to heare, before they finally judge, if they be asked it. Sir, you will do us a favour, if you will let us heare timely of this, being reſolved not to cont<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nue where the Parliament may have any thought we ſhould not bee longer, then the firſt m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nute of our poſsible remov<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng. This Bearer will conveigh your favour unto us.</p>
+            <closer>
+               <signed>Your lovind friends,
+<list>
+                     <item>RUPERT,</item>
+                     <item>MAURICE.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:159771:4"/>
+            <head>A Declaration from Prince <hi>Rupert</hi> and Prince <hi>Maurice.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>VR earneſt deſire to your <hi>Lordſhip</hi> is, that you will be pleaſed to repreſent the Houſe of <hi>Lords,</hi> that upon the clear apprehenſion that we had of the ſenſe of the <hi>Articles,</hi> concerning the ſurrender of <hi>Oxford,</hi> and our Paſſe from the <hi>Generall;</hi> we repaired to <hi>Oatlands,</hi> as in our way, and for ſome time, a convenient diſtance for our ad<g ref="char:EOLhyphen"/>dreſſe to the <hi>Parliament.</hi> That as ſoone as we had received the <hi>Votes</hi> of the
+<pb facs="tcp:159771:4"/>Houſe of <hi>Commons,</hi> declaring that by our coming thither, we had broken the <hi>Articles,</hi> and commanding us within 10. dayes to repaire to the Sea ſide, and forthwith to depart the Kingdome, we did inſtantly reſolve to remove from this place as ſoone as in any poſſibility we could, and to apply our ſelves to give them ſatisfaction concerning our coming thither, we beſeech your <hi>Lord<g ref="char:EOLhyphen"/>ſhip</hi> to mak it knowne to the <hi>Lords</hi> in <hi>Parliament</hi> that if we could have con<g ref="char:EOLhyphen"/>ceived it would have given any of<g ref="char:EOLhyphen"/>fence, we would not have come thi<g ref="char:EOLhyphen"/>ther, and now upon knowledge that it hath, we are removiing, though we do not know wheither; your <hi>Lordſhips</hi> have taken our coming thither into conſideration, yet have we ventured to offer your and their <hi>Lordſhips</hi> this trouble for prevention of any appre<g ref="char:EOLhyphen"/>henſion
+<pb facs="tcp:159771:5"/>they may have of any thoughts in us to do any thing that we could conceive might offend the Houſe of Parliament, or hinder our ſelves from the happineſſe of re<g ref="char:EOLhyphen"/>ceiving benefit or favour from them, which we value too much to looſe, and which we will not faile to keepe, by our utmoſt beſt en<g ref="char:EOLhyphen"/>deavours<g ref="char:punc">▪</g> my Lords we are</p>
+            <closer>
+               <signed>Your Lordſhips
+<list>
+                     <item>Rupert.</item>
+                     <item>Maurice.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
